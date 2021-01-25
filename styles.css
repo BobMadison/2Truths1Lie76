@@ -1,0 +1,16 @@
+.colors {
+  color: navy;
+  background-color: lightgray;
+}
+
+.borders {
+  border-color: 3px solid black;
+}
+
+.padding {
+  padding: 4px;
+}
+
+.margins {
+  margin: 3px;
+}
